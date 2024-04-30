@@ -8,7 +8,7 @@ html {
 body {
     background:  rgb(87, 87, 232);
     font-family: Arial, sans-serif;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 header {
     color: whitesmoke;
@@ -22,15 +22,6 @@ section {
     width: 500px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.353);
-}
-footer {
-    position: fixed;
-    bottom: 0; /*define a distância entre o elemento e a borda inferior da janela*/
-    width: 100%; /*p/ footer ter a largura total da janela*/
-    color: whitesmoke;
-    text-align: center;
-    font-style: italic;
-    padding: 15px;
 }
 div {
     text-align: center;
